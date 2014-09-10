@@ -21,7 +21,7 @@ Before ITP, I worked at The New Yorker as a video/multimedia producer. I like st
 * how to sew
 * beginning french 
 
- * ![A cute gif](http://media.giphy.com/media/NimEavznszKtW/giphy.gif)
- * ![A cute emoticon, yes I like cats](http://www.emoticones-avenue.com/emoticones/kawaii_cat_02.gif)
+![A cute gif](http://media.giphy.com/media/NimEavznszKtW/giphy.gif)
+![A cute emoticon, yes I like cats](http://www.emoticones-avenue.com/emoticones/kawaii_cat_02.gif)
 
 
